@@ -10,7 +10,7 @@ law](https://en.wikipedia.org/wiki/Zipf%27s_law) on the two most common words.
   which is distributed under
   [Creative Commons Attribution license (CC-BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 - Documentation: https://word-count.readthedocs.io
-
+- DOI: 10.5072/zenodo.1044122
 We use this example in two [CodeRefinery](https://coderefinery.org/) lessons:
 - https://coderefinery.github.io/reproducible-research/
 - https://coderefinery.github.io/documentation/
